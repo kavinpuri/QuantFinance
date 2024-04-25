@@ -1,7 +1,3 @@
-Sure, here's a sample README file highlighting the important aspects of the provided code:
-
----
-
 # Unsupervised Learning Trading Strategy
 
 This repository contains Python code for implementing an unsupervised learning trading strategy using machine learning techniques.
