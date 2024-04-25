@@ -1,17 +1,17 @@
-# Unsupervised Learning Trading Strategy
+# 📈 Unsupervised Learning Trading Strategy
 
 This repository contains Python code for implementing an unsupervised learning trading strategy using machine learning techniques.
 
-## Overview
+## 🚀 Overview
 
 The trading strategy aims to:
 
-1. Group similar assets based on their features using K-Means clustering.
-2. Select assets for each month based on the cluster and form a portfolio.
-3. Optimize the portfolio using Efficient Frontier max sharpe ratio optimization.
-4. Calculate daily portfolio returns and compare them to NIFTY500 returns.
+🔍 **Analyze Data**: Group similar assets based on their features using K-Means clustering.
+📊 **Portfolio Construction**: Select assets for each month based on the cluster and form a portfolio.
+⚖️ **Optimization**: Optimize the portfolio using Efficient Frontier max sharpe ratio optimization.
+📉 **Performance Evaluation**: Calculate daily portfolio returns and compare them to NIFTY500 returns.
 
-## Key Features
+## 🔑 Key Features
 
 ### Data Collection and Preprocessing
 
@@ -30,13 +30,13 @@ The trading strategy aims to:
 - **Visualizations**: Portfolio returns are visualized and compared with NIFTY500 returns through time series plots, histograms, cumulative returns plots, and density plots.
 - **Metrics**: The highest strategy return throughout the period is calculated for performance evaluation.
 
-## Usage
+## 🛠️ Usage
 
 1. Install the required libraries using `pip install -r requirements.txt`.
 2. Run the Python script `trading_strategy.py` to execute the trading strategy.
 3. View the generated plots to analyze the performance of the trading strategy.
 
-## Dependencies
+## 📦 Dependencies
 
 - pandas
 - numpy
@@ -48,6 +48,6 @@ The trading strategy aims to:
 - pandas_ta
 - pypfopt
 
-## Contributors
+## 🌟 Contributors
 
 - [Kavin Puri](https://github.com/kavinpuri)
